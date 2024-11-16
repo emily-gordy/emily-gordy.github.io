@@ -1,6 +1,6 @@
 ---
 
-title: Emily Gordon
+title: home
 
 ---
 
