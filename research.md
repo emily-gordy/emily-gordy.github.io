@@ -10,6 +10,7 @@ Large scale variability in the Pacific Ocean on decadal timescales is dominated 
 ### Methods for Identifying Predictability
 Researching Earth system predictability allows us to identify times and places within our Earth system where we can be more sure about future variability and change, and hence be better prepared for potential climate change. I am interested in combining [climate model and observational data, 
  machine learning](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098635), and [traditional statistical methods for identifying predictability]((https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)) to learn about predictable signals within our Earth system, and where and when we can use predictability to constrain estimates of future change.
+![image](assets/img/predictionschematic.png)
 
 ### Future Regional Climate Variability
 Observed climate variability is the combination of processes that are internally generated within the climate system, and anthropogenic climate change. Forced climate change is becoming more and more obvious on regional scales, amplifying internal variability to cause increases in extreme events and long term warming trends. I am interested in quantifying the [relative roles of internal variability and the forced response to climate change, how this affects near term predictability of climate variability](https://iopscience.iop.org/article/10.1088/1748-9326/acfdbc/meta), and also how state-dependence manifests within this mess. 
