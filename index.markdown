@@ -10,5 +10,6 @@ In August 2025 I will be starting a faculty position at the University of Auckla
 * predictability theory,
 * AI applications to predictability.
 
-
 ---
+
+## Check out my [publications](https://emily-gordy.github.io/publications/) and [research interests](https://emily-gordy.github.io/research/)
