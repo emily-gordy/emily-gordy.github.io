@@ -3,6 +3,8 @@ layout: default
 permalink: /publications/
 ---
 
+# Publications
+
 ### Preprint:
 
 **Gordon, E. M.** and N. S. Diffenbaugh "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" in review, preprint available: [https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)
