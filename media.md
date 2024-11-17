@@ -7,9 +7,11 @@ permalink: /media/
 
 # Selected Media
 
-### Presentation at Women In Data Science (WiDS) 2024
+## Toward a Deeper Understanding of Our Climate System Through Data Science
 
-{% include youtube.html id="mSmcLoShzxg" %}
+#### Presentation at Women In Data Science (WiDS) 2024
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSmcLoShzxg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * * * 
 
