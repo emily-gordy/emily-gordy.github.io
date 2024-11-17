@@ -13,6 +13,7 @@ Researching Earth system predictability allows us to identify times and places w
 
 ### Future Regional Climate Variability
 Observed climate variability is the combination of processes that are internally generated within the climate system, and anthropogenic climate change. Forced climate change is becoming more and more obvious on regional scales, amplifying internal variability to cause increases in extreme events and long term warming trends. I am interested in quantifying the [relative roles of internal variability and the forced response to climate change, how this affects near term predictability of climate variability](https://iopscience.iop.org/article/10.1088/1748-9326/acfdbc/meta), and also how state-dependence manifests within this mess. 
+![image](assets/img/Erlfig.png)
 
 ### AI methods in climate science
 My research uses data science methods to learn about the climate system from existing data sources, both observational and simulated. With the increasing role of AI within climate science, I am continuing to incorporate new methods into my research as long as they prove to be the best tool for the job. I am also interested in verifying and adapting AI-based climate emulators and developing techniques to combine with existing data sources to quickly generate estimates of future climate variability under different boundary conditions.
