@@ -3,9 +3,11 @@ layout: default
 permalink: /publications/
 ---
 
+## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
+
 # Publications
 
-## Preprint:
+## In Review:
 
 **Gordon, E. M.** and N. S. Diffenbaugh "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" in review, preprint available: [https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)
 
