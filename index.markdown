@@ -1,5 +1,5 @@
 ---
-title: Emily M. Gordon
+layout: default
 ---
 
 Welcome to my research website! I am a Data Science postdoctoral fellow at Stanford University in the Department of Earth System Science interested in climate variability and predictability, as well as fun, throughtful applications of machine learning to learn about climate change. 
