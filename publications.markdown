@@ -5,13 +5,13 @@ permalink: /publications/
 
 # Publications
 
-### Preprint:
+## Preprint:
 
 **Gordon, E. M.** and N. S. Diffenbaugh "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" in review, preprint available: [https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)
 
 * * *
 
-### Peer Reviewed:
+## Peer Reviewed:
 
 Davenport, F. V., E. A. Barnes, and **E. M. Gordon.** (2024) "Combining Neural Networks and CMIP6 Simulations to Learn Windows of Opportunity for Skillful Prediction of Multiyear Sea Surface Temperature Variability". Geophysical Research Letters, [https://doi.org/10.1029/2023GL108099](https://doi.org/10.1029/2023GL108099)
 
@@ -28,19 +28,19 @@ Davenport, F. V., E. A. Barnes, and **E. M. Gordon.** (2024) "Combining Neural N
 * * *
 
 
-### White Papers:
+## White Papers:
 
 Barnes, E. A., K. J. Mayer, B. Toms, Z. K. Martin and **E. M. Gordon**: Identifying Opportunities for Skillful Weather Prediction with Interpretable Neural Networks, keynote talk and conference paper at NeurIPS AI4EARTH 2020. available at [https://arxiv.org/abs/2012.07830](https://arxiv.org/abs/2012.07830).
 
 * * *
 
-### Software:
+## Software:
 
 Arcodia, M, E. A. Barnes, C. Connolly, F. V. Davenport, Z. Carlo Frontera, **E. M. Gordon**, D. Hueholt, A. Mamalakis and E. Valkonen: Applied Machine Learning Tutorial for Earth Scientists, 2022,  Zenodo: [https://doi.org/10.5281/zenodo.6686879](https://doi.org/10.5281/zenodo.6686879). Github: [https://github.com/eabarnes1010/ml_tutorial_csu](https://github.com/eabarnes1010/ml_tutorial_csu)
 
 * * *
 
-### Theses and Dissertations:
+## Theses and Dissertations:
 
 Gordon, E. M. (2023). When is the Unpredictable (Slightly More) Predictable? An Assessment of Opportunities for Skillful Decadal Prediction using Explainable Neural Networks (Dissertation, PhD). Colorado State University.
 
