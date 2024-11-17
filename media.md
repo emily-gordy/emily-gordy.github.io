@@ -1,6 +1,6 @@
 ---
-layout:default
-permalink:/media/
+layout: default
+permalink: /media/
 ---
 
 ## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
