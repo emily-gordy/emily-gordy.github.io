@@ -5,8 +5,6 @@ permalink: /media/
 
 ## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
 
-# Selected Media
-
 ## Toward a Deeper Understanding of Our Climate System Through Data Science
 
 #### Presentation at Women In Data Science (WiDS) 2024
@@ -15,9 +13,9 @@ permalink: /media/
 
 * * * 
 
-### Profile By Stanford Data Science
+## Profile By Stanford Data Science
 
-[The Joyous Side of Data Science, Perseverance, and Long-Distance Running[(https://datascience.stanford.edu/news/joyous-side-data-science-perseverance-and-long-distance-running)
+[The Joyous Side of Data Science, Perseverance, and Long-Distance Running](https://datascience.stanford.edu/news/joyous-side-data-science-perseverance-and-long-distance-running)
 
 
 
