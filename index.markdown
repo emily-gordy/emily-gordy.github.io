@@ -14,6 +14,10 @@ layout: default
 * #### predictability theory,
 * #### AI applications to predictability.
 
+* * *
+
+### Contact me! emily "at" stanford "dot" edu
+
 ---
 
 ## Check out my [publications](https://emily-gordy.github.io/publications/) and [research interests](https://emily-gordy.github.io/research/)
