@@ -16,7 +16,7 @@ layout: default
 
 * * *
 
-### Contact me! emily "at" stanford "dot" edu
+### Contact me! egordon4 "at" stanford "dot" edu
 
 ---
 
