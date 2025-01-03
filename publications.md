@@ -25,7 +25,7 @@ Davenport, F. V., E. A. Barnes, and **E. M. Gordon.** (2024) "Combining Neural N
 
 **Gordon, E. M.**, Seppälä, A., Funke, B., Tamminen, J., and Walker, K. A. (2021). Observational evidence of energetic particle precipitation NOx (EPP-NOx) interaction with chlorine curbing Antarctic ozone loss, Atmos. Chem. Phys., 21, [https://doi.org/10.5194/acp-21-2819-2021](https://doi.org/10.5194/acp-21-2819-2021)
 
-**Gordon, E. M.**, Seppälä, A., and Tamminen, J. (2020)*: Evidence for energetic particle precipitation and quasi-biennial oscillation modulations of the Antarctic NO2 springtime stratospheric column from OMI observations, Atmos. Chem. Phys., [https://doi.org/10.5194/acp-20-6259-2020]https://doi.org/10.5194/acp-20-6259-2020. *Most downloaded article from Atmos. Chem. Phys. in 2020
+**Gordon, E. M.**, Seppälä, A., and Tamminen, J. (2020)*: Evidence for energetic particle precipitation and quasi-biennial oscillation modulations of the Antarctic NO2 springtime stratospheric column from OMI observations, Atmos. Chem. Phys., [https://doi.org/10.5194/acp-20-6259-2020](https://doi.org/10.5194/acp-20-6259-2020). *Most downloaded article from Atmos. Chem. Phys. in 2020
 
 * * *
 
