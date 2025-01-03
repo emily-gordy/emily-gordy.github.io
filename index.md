@@ -12,7 +12,7 @@ I am a Data Science postdoctoral fellow at Stanford University in the Department
 
 ## News
 
-### Preprintpreprintpreprintpreprint
+### Preprint out now!
 A preprint of my most recent study "[Identifying a pattern of predictable decadal North Pacific SST variability in historical observations](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)" is available!
 
 ### In August 2025 I will be starting a faculty position at the University of Auckland. I am looking to work with people interested in:
