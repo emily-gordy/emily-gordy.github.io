@@ -7,9 +7,9 @@ permalink: /publications/
 
 # Publications
 
-**Gordon, E. M.** and N. S. Diffenbaugh (2025) "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" in production, Geophysical Research Letters, preprint available: [https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)
-
 ## Peer Reviewed:
+
+**Gordon, E. M.** and N. S. Diffenbaugh (2025) "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" in production, Geophysical Research Letters, preprint available: [https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)
 
 Davenport, F. V., E. A. Barnes, and **E. M. Gordon.** (2024) "Combining Neural Networks and CMIP6 Simulations to Learn Windows of Opportunity for Skillful Prediction of Multiyear Sea Surface Temperature Variability". Geophysical Research Letters, [https://doi.org/10.1029/2023GL108099](https://doi.org/10.1029/2023GL108099)
 
