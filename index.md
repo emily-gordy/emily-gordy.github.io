@@ -4,14 +4,14 @@ layout: default
 
 ## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
 
-#### Welcome to my research website! 
+#### Welcome to my research website
 
 I am a Data Science postdoctoral fellow at Stanford University in the Department of Earth System Science interested in climate variability and predictability, as well as fun, throughtful applications of machine learning to learn about climate change. 
 
 * * *
 
-#### Preprint out now!
-A preprint of my most recent study "[Identifying a pattern of predictable decadal North Pacific SST variability in historical observations](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823)" is available!
+#### New accepted paper!
+My most recent study "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" has been accepted in Geophysical Research Letters! Preprint is available [here](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823).
 
 * * *
 
