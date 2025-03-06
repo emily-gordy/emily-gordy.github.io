@@ -11,7 +11,7 @@ I am a Data Science postdoctoral fellow at Stanford University in the Department
 * * *
 
 #### New accepted paper!
-My most recent study "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations" has been accepted in Geophysical Research Letters! Preprint is available [here](https://essopenarchive.org/doi/full/10.22541/essoar.172748543.36409823).
+My most recent study [Identifying a pattern of predictable decadal North Pacific SST variability in historical observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112729) has been accepted in Geophysical Research Letters!
 
 * * *
 
