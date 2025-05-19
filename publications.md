@@ -37,13 +37,3 @@ Barnes, E. A., K. J. Mayer, B. Toms, Z. K. Martin and **E. M. Gordon**: Identify
 ## Software:
 
 Arcodia, M, E. A. Barnes, C. Connolly, F. V. Davenport, Z. Carlo Frontera, **E. M. Gordon**, D. Hueholt, A. Mamalakis and E. Valkonen: Applied Machine Learning Tutorial for Earth Scientists, 2022,  Zenodo: [https://doi.org/10.5281/zenodo.6686879](https://doi.org/10.5281/zenodo.6686879). Github: [https://github.com/eabarnes1010/ml_tutorial_csu](https://github.com/eabarnes1010/ml_tutorial_csu)
-
-* * *
-
-## Theses and Dissertations:
-
-Gordon, E. M. (2023). When is the Unpredictable (Slightly More) Predictable? An Assessment of Opportunities for Skillful Decadal Prediction using Explainable Neural Networks (Dissertation, PhD). Colorado State University.
-
-Gordon, E. M. (2020). Observational Evidence for the Modulation of Antarctic Springtime Ozone Depletion by Energetic Particle Precipitation (Thesis, Master of Science). University of Otago. http://hdl.handle.net/10523/10139
-
-Gordon, E. M. (2018). Solar Proton Events and Antarctic Ozone – Potential Impact on Stratospheric Chlorine (Dissertation, Bachelor of Science with Honours). University of Otago.
