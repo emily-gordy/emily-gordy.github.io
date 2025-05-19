@@ -19,7 +19,7 @@ Davenport, F. V., E. A. Barnes, and **E. M. Gordon.** (2024) "Combining Neural N
 
 **Gordon, E. M.**, E. A. Barnes, and J. Hurrell (2021). Oceanic harbingers of Pacific Decadal Oscillation predictability in CESM2 detected by neural networks. Geophysical Research Letters, [https://doi.org/10.1029/2021GL095392](https://doi.org/10.1029/2021GL095392)
 
-Barnes, E. A., K. J. Mayer, B. Toms, Z. K. Martin and **E. M. Gordon**: Identifying Opportunities for Skillful Weather Prediction with Interpretable Neural Networks, keynote talk and conference paper at NeurIPS AI4EARTH 2020. available at [https://arxiv.org/abs/2012.07830](https://arxiv.org/abs/2012.07830).
+Barnes, E. A., K. J. Mayer, B. Toms, Z. K. Martin and **E. M. Gordon** (2020). Identifying Opportunities for Skillful Weather Prediction with Interpretable Neural Networks. NeurIPS, [https://arxiv.org/abs/2012.07830](https://arxiv.org/abs/2012.07830).
 
 **Gordon, E. M.**, Seppälä, A., Funke, B., Tamminen, J., and Walker, K. A. (2021). Observational evidence of energetic particle precipitation NOx (EPP-NOx) interaction with chlorine curbing Antarctic ozone loss, Atmos. Chem. Phys., 21, [https://doi.org/10.5194/acp-21-2819-2021](https://doi.org/10.5194/acp-21-2819-2021)
 
