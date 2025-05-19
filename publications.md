@@ -7,8 +7,6 @@ permalink: /publications/
 
 # Publications
 
-## Peer Reviewed:
-
 Rader, J. K., C. J. Connolly, M. A. Fernandez, and **E. M. Gordon** (2025), "Attribution of the record-high 2023 SST using a deep-learning framework", Environmental Research Communications, [https://iopscience.iop.org/article/10.1088/2515-7620/add322](https://iopscience.iop.org/article/10.1088/2515-7620/add322).
 
 **Gordon, E. M.** and N. S. Diffenbaugh (2025) "Identifying a pattern of predictable decadal North Pacific SST variability in historical observations", Geophysical Research Letters, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112729](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112729)
