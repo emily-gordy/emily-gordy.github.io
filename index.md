@@ -6,7 +6,7 @@ layout: default
 
 #### Welcome to my research website
 
-I am a Lecturer in Climate Physics at the University of Auckland interested in climate variability and predictability, as well as fun, throughtful applications of machine learning to learn about climate change. 
+I am a Lecturer in Climate Physics at the University of Auckland interested in climate variability and predictability, as well as fun, thoughtful applications of machine learning to learn about climate change. 
 
 * * *
 
