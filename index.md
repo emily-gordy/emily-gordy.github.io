@@ -14,7 +14,7 @@ Check out my most recent study [Identifying a pattern of predictable decadal Nor
 
 * * *
 
-#### As a new faculty at the University of Auckland, I am looking to work with people interested in:
+#### As a new Lecturer at the University of Auckland, I am looking to work with people interested in:
 * large scale climate variability and change,
 * regional climate change and impacts,
 * predictability theory,
@@ -22,7 +22,7 @@ Check out my most recent study [Identifying a pattern of predictable decadal Nor
 
 * * *
 
-#### Contact me! egordon4 "at" stanford "dot" edu
+#### Contact me! emily.gordon@auckland.ac.nz
 
 ---
 
