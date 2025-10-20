@@ -10,7 +10,7 @@ I am a Lecturer in Climate Physics at the University of Auckland interested in c
 
 * * *
 
-Check out my most recent study [Identifying a pattern of predictable decadal North Pacific SST variability in historical observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112729)
+My newest preprint [Machine learning predictions of summertime warming jumps on decadal timescales](https://eartharxiv.org/repository/view/10369/) is available on EarthArXiv! 
 
 * * *
 
