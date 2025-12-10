@@ -5,6 +5,10 @@ permalink: /media/
 
 ## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
 
+## Take Ten With Emily Gordon
+
+(University of Auckland Profile)[https://www.auckland.ac.nz/en/science/our-research/take-10-with/take-10-with-physics/take-10-with-emily-gordon.html]
+
 ## Toward a Deeper Understanding of Our Climate System Through Data Science
 
 #### Presentation at Women In Data Science (WiDS) 2024
