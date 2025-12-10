@@ -7,7 +7,8 @@ permalink: /media/
 
 ## Take Ten With Emily Gordon
 
-(University of Auckland Profile)[https://www.auckland.ac.nz/en/science/our-research/take-10-with/take-10-with-physics/take-10-with-emily-gordon.html]
+#### Interview with University of Auckland Take Ten with Series:
+[![image](assets/img/PXL_20251205_024202405.jpg)](https://www.auckland.ac.nz/en/science/our-research/take-10-with/take-10-with-physics/take-10-with-emily-gordon.html)
 
 ## Toward a Deeper Understanding of Our Climate System Through Data Science
 
