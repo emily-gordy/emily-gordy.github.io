@@ -7,9 +7,11 @@ permalink: /publications/
 
 # Publications
 
-### _In Review_
+### _Accepted_
 
-**Gordon, E. M.** and N. S. Diffenbaugh (2025) "Machine learning predictions of summertime warming jumps on decadal timescales", EarthArXiv, [https://eartharxiv.org/repository/view/10369/](https://eartharxiv.org/repository/view/10369/)
+**Gordon, E. M.** and N. S. Diffenbaugh (2025) "Machine learning predictions of summertime warming jumps on decadal timescales", _accepted_ Environmental Research: Climate, Preprint available: [https://eartharxiv.org/repository/view/10369/](https://eartharxiv.org/repository/view/10369/)
+
+Wills R. C. J., C. Deser, K. A. McKinnon, A. Phillips, S. Po-Chedley, S. Sippel, A. L. Merrifield, C. Bone, C. Bonfils, ́G. Camps-Valls, S. Cropper, C. Connolly, S. Duan, H. Durand, A. Feigin, M. A. Fernandez, G. Gastineau, A. Gavrilov, **E. M. Gordon**, M. Gunther, M. Hover, S. Kravtsov, Y-N Kuo, J. Lien, G. D. Madakumbura, N. Mankovich, M. Newman, J. Rader., J-R Shi, S-I Shin, G. Varando (2026) “Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)”, _in press_ Journal of Climate
 
 ### _Published_
 
