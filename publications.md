@@ -7,13 +7,16 @@ permalink: /publications/
 
 # Publications
 
-## _Accepted_
+## _Submitted/In Review_
+Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", submitted
 
-* **Gordon, E. M.** and N. S. Diffenbaugh (2025) "Machine learning predictions of summertime warming jumps on decadal timescales", _accepted_ Environmental Research: Climate, Preprint available: [https://eartharxiv.org/repository/view/10369/](https://eartharxiv.org/repository/view/10369/)
+## _Accepted_
 
 * Wills R. C. J., C. Deser, K. A. McKinnon, A. Phillips, S. Po-Chedley, S. Sippel, A. L. Merrifield, C. Bone, C. Bonfils, ́G. Camps-Valls, S. Cropper, C. Connolly, S. Duan, H. Durand, A. Feigin, M. A. Fernandez, G. Gastineau, A. Gavrilov, **E. M. Gordon**, M. Gunther, M. Hover, S. Kravtsov, Y-N Kuo, J. Lien, G. D. Madakumbura, N. Mankovich, M. Newman, J. Rader., J-R Shi, S-I Shin, G. Varando (2026) “Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)”, _in press_ Journal of Climate
 
 ## _Published_
+
+* **Gordon, E. M.** and N. S. Diffenbaugh (2026) "Machine learning predictions of summertime warming jumps on decadal timescales", Environmental Research: Climate, [https://iopscience.iop.org/article/10.1088/2752-5295/ae488c](https://iopscience.iop.org/article/10.1088/2752-5295/ae488c)
 
 * Rader, J. K., C. J. Connolly, M. A. Fernandez, and **E. M. Gordon** (2025), "Attribution of the record-high 2023 SST using a deep-learning framework", Environmental Research Communications, [https://iopscience.iop.org/article/10.1088/2515-7620/add322](https://iopscience.iop.org/article/10.1088/2515-7620/add322).
 
