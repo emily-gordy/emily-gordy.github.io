@@ -8,7 +8,7 @@ I am a Lecturer in Climate Physics at the University of Auckland interested in c
 
 * * *
 
-New Preprint! [Machine learning predictions of summertime warming jumps on decadal timescales](https://eartharxiv.org/repository/view/10369/) is available on EarthArXiv! 
+New Paper! [Machine learning predictions of summertime warming jumps on decadal timescales](https://iopscience.iop.org/article/10.1088/2752-5295/ae488c) is accepted in Environmental Research: Climate! 
 
 * * *
 
