@@ -8,7 +8,7 @@ permalink: /publications/
 # Publications
 
 ## _Submitted/In Review_
-Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", submitted
+* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", submitted
 
 ## _Accepted_
 
@@ -40,4 +40,4 @@ Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport a
 
 ## Software:
 
-Arcodia, M, E. A. Barnes, C. Connolly, F. V. Davenport, Z. Carlo Frontera, **E. M. Gordon**, D. Hueholt, A. Mamalakis and E. Valkonen: Applied Machine Learning Tutorial for Earth Scientists, 2022,  Zenodo: [https://doi.org/10.5281/zenodo.6686879](https://doi.org/10.5281/zenodo.6686879). Github: [https://github.com/eabarnes1010/ml_tutorial_csu](https://github.com/eabarnes1010/ml_tutorial_csu)
+* Arcodia, M, E. A. Barnes, C. Connolly, F. V. Davenport, Z. Carlo Frontera, **E. M. Gordon**, D. Hueholt, A. Mamalakis and E. Valkonen: Applied Machine Learning Tutorial for Earth Scientists, 2022,  Zenodo: [https://doi.org/10.5281/zenodo.6686879](https://doi.org/10.5281/zenodo.6686879). Github: [https://github.com/eabarnes1010/ml_tutorial_csu](https://github.com/eabarnes1010/ml_tutorial_csu)
