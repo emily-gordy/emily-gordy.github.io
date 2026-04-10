@@ -8,13 +8,11 @@ permalink: /publications/
 # Publications
 
 ## _Submitted/In Review_
-* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", submitted
-
-## _Accepted_
-
-* Wills R. C. J., C. Deser, K. A. McKinnon, A. Phillips, S. Po-Chedley, S. Sippel, A. L. Merrifield, C. Bone, C. Bonfils, ́G. Camps-Valls, S. Cropper, C. Connolly, S. Duan, H. Durand, A. Feigin, M. A. Fernandez, G. Gastineau, A. Gavrilov, **E. M. Gordon**, M. Gunther, M. Hover, S. Kravtsov, Y-N Kuo, J. Lien, G. D. Madakumbura, N. Mankovich, M. Newman, J. Rader., J-R Shi, S-I Shin, G. Varando (2026) “Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)”, _in press_ Journal of Climate
+* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", _in review_ PNAS
 
 ## _Published_
+
+* Wills R. C. J., C. Deser, K. A. McKinnon, A. Phillips, S. Po-Chedley, S. Sippel, A. L. Merrifield, C. Bone, C. Bonfils, ́G. Camps-Valls, S. Cropper, C. Connolly, S. Duan, H. Durand, A. Feigin, M. A. Fernandez, G. Gastineau, A. Gavrilov, **E. M. Gordon**, M. Gunther, M. Hover, S. Kravtsov, Y-N Kuo, J. Lien, G. D. Madakumbura, N. Mankovich, M. Newman, J. Rader., J-R Shi, S-I Shin, G. Varando (2026) “Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)”, Journal of Climate, [https://doi.org/10.1175/JCLI-D-25-0326.1](https://doi.org/10.1175/JCLI-D-25-0326.1)
 
 * **Gordon, E. M.** and N. S. Diffenbaugh (2026) "Machine learning predictions of summertime warming jumps on decadal timescales", Environmental Research: Climate, [https://iopscience.iop.org/article/10.1088/2752-5295/ae488c](https://iopscience.iop.org/article/10.1088/2752-5295/ae488c)
 
