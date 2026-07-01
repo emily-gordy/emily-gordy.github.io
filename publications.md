@@ -8,7 +8,7 @@ permalink: /publications/
 # Publications
 
 ## _Submitted/In Review_
-* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2025. "Extreme event attribution for fractional shares of global emissions", _in review_ PNAS
+* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, 2026. "Global emissions since the Paris agreement have strengthened Europe's recent heatwaves", _in review_ GRL, preprint available [https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1)
 
 ## _Published_
 
