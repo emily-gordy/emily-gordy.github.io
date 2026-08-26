@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## _Submitted/In Review_
 
-* **Gordon, Emily M.** and N. S. Diffenbaugh "The emergence of regional record-breaking summer heat predictability" _in review_ NPJ Climate and Atmospheric Sciences
+* **Gordon, Emily M.** and N. S. Diffenbaugh "The emergence of regional record-breaking summer heat predictability" _in review_ NPJ Climate and Atmospheric Science
 
 * Alessi, M. J., E. Plesiat, L. D. Merner, R. J. H. Dunn, D. A. Herrera, P. Ayabagabo, D. Degbey, D. Muheki, W. Thiery, C. Martinez, J. Kimutai, **E. M. Gordon**. "Using Artificial Intelligence to Create a Gridded Climate Extremes Dataset for Global South Regions" _submitted_
 
