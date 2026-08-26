@@ -9,11 +9,13 @@ permalink: /publications/
 
 ## _Submitted/In Review_
 
-* **Gordon, Emily M.** and N. S. Diffenbaugh "The emergence of regional record-breaking summer heat predictability" _submitted_
+* **Gordon, Emily M.** and N. S. Diffenbaugh "The emergence of regional record-breaking summer heat predictability" _in review_ NPJ Climate and Atmospheric Sciences
+
+* Alessi, M. J., E. Plesiat, L. D. Merner, R. J. H. Dunn, D. A. Herrera, P. Ayabagabo, D. Degbey, D. Muheki, W. Thiery, C. Martinez, J. Kimutai, **E. M. Gordon**. "Using Artificial Intelligence to Create a Gridded Climate Extremes Dataset for Global South Regions" _submitted_
 
 ## _Accepted_
 
-* Trok, Jared T., Elizabeth A. Barnes, **Emily M. Gordon**, Frances V. Davenport and Noah S. Diffenbaugh, (2026). "Global emissions since the Paris agreement have strengthened Europe's recent heatwaves", _accepted_ GRL, preprint available [https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1)
+* Trok, J. T., E. A. Barnes, **E. M. Gordon**, F. V. Davenport and N. S. Diffenbaugh, (2026). "Global emissions since the Paris agreement have strengthened Europe's recent heatwaves", _accepted_ GRL, preprint available [https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1)
 
 ## _Published_
 
