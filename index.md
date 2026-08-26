@@ -4,11 +4,11 @@ layout: default
 
 ## [home](https://emily-gordy.github.io/) | [research](https://emily-gordy.github.io/research/) | [media](https://emily-gordy.github.io/media/) | [publications](https://emily-gordy.github.io/publications/)
 
-I am a Lecturer in Climate Physics at the University of Auckland interested in climate variability and predictability, as well as fun, thoughtful applications of machine learning to learn about climate change. 
+I am a Lecturer in Physics at the University of Auckland interested in climate variability and predictability, as well as fun, thoughtful applications of machine learning to learn about climate change. 
 
 * * *
 
-New Paper! [Machine learning predictions of summertime warming jumps on decadal timescales](https://iopscience.iop.org/article/10.1088/2752-5295/ae488c) is accepted in Environmental Research: Climate! 
+#### [Funded PhD position at the University of Auckland](https://www.auckland.ac.nz/assets/study/scholarships-and-funding/types-of-scholarships/postgraduate-scholarships/doctoral-scholarships/phd-ocean-atmosphere-interaction-20260820.pdf)
 
 * * *
 
