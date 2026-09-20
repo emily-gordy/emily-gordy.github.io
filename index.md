@@ -8,7 +8,7 @@ I am a Lecturer in Physics at the University of Auckland interested in climate v
 
 * * *
 
-#### [Funded PhD position at the University of Auckland](https://www.auckland.ac.nz/assets/study/scholarships-and-funding/types-of-scholarships/postgraduate-scholarships/doctoral-scholarships/phd-ocean-atmosphere-interaction-20260820.pdf)
+#### Preprint of new study: [The emergence of record-breaking heat predictability](https://www.researchsquare.com/article/rs-10796829/v1)
 
 * * *
 
