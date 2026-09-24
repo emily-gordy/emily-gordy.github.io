@@ -13,11 +13,9 @@ permalink: /publications/
 
 * Alessi, M. J., E. Plesiat, L. D. Merner, R. J. H. Dunn, D. A. Herrera, P. Ayabagabo, D. Degbey, D. Muheki, W. Thiery, C. Martinez, J. Kimutai, **E. M. Gordon**. "Using Artificial Intelligence to Create a Gridded Climate Extremes Dataset for Global South Regions" _submitted_
 
-## _Accepted_
-
-* Trok, J. T., E. A. Barnes, **E. M. Gordon**, F. V. Davenport and N. S. Diffenbaugh, (2026). "Global emissions since the Paris agreement have strengthened Europe's recent heatwaves", _accepted_ GRL, preprint available [https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1](https://essopenarchive.org/doi/full/10.22541/essoar.15005315/v1)
-
 ## _Published_
+
+* Trok, J. T., E. A. Barnes, **E. M. Gordon**, F. V. Davenport and N. S. Diffenbaugh, (2026). "Global emissions since the Paris agreement have strengthened Europe's recent heatwaves", Geophysical Research Letters, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125079](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125079)
 
 * Wills R. C. J., C. Deser, K. A. McKinnon, A. Phillips, S. Po-Chedley, S. Sippel, A. L. Merrifield, C. Bone, C. Bonfils, ́G. Camps-Valls, S. Cropper, C. Connolly, S. Duan, H. Durand, A. Feigin, M. A. Fernandez, G. Gastineau, A. Gavrilov, **E. M. Gordon**, M. Gunther, M. Hover, S. Kravtsov, Y-N Kuo, J. Lien, G. D. Madakumbura, N. Mankovich, M. Newman, J. Rader., J-R Shi, S-I Shin, G. Varando (2026) “Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)”, Journal of Climate, [https://doi.org/10.1175/JCLI-D-25-0326.1](https://doi.org/10.1175/JCLI-D-25-0326.1)
 
